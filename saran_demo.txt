@@ -1,3 +1,7 @@
 hi there
 
+<<<<<<< HEAD
 from local
+=======
+from remote
+>>>>>>> ecc1a3ddf48661d0953ecab44a951078f5f4262c
